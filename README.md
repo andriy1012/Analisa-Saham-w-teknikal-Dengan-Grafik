@@ -189,4 +189,7 @@ Akan menampilkan:
 - Pastikan koneksi internet stabil
 - Untuk production, gunakan API resmi
 - Bukan saran investasi, hanya untuk edukasi
-- Diperbolehkan Modifikasi 
+
+## 📝 License
+
+MIT
