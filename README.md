@@ -183,13 +183,13 @@ Akan menampilkan:
 - ✅ **Auto Signal** - BULLISH/BEARISH/NETRAL + Confidence
 - ✅ **Rekomendasi** - BUY/SELL/HOLD + Target & Stop Loss
 
-## ⚠️ Catatan
+##  Catatan
 
 - Web scraping tergantung pada struktur website
 - Pastikan koneksi internet stabil
-- Untuk production, gunakan API resmi
-- Bukan saran investasi, hanya untuk edukasi
+- Boleh Copy dan modifikasi
 
 ## 📝 License
 
-MIT
+Vibecode
+
