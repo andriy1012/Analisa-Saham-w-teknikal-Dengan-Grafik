@@ -2,7 +2,7 @@
 
 Analisis saham Indonesia dengan **diagram dan chart visual** di terminal!
 Awas **Suhu CPU bisa naik Soalnya makek JS** kalau bisa konvert ke GO/Rust
-kalau sudah exit tetep panas di Linux ```ps aux | grep node```
+kalau sudah exit tetep panas di Linux ```bash ps aux | grep node```
 
 ## 🚀 Quick Start
 
