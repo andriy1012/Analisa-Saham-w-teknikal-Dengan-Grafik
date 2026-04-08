@@ -235,7 +235,4 @@ Hasilnya: **~500 data points** untuk analisis teknikal yang akurat!
 - Untuk production, pertimbangkan API resmi berbayar
 - **Bukan saran investasi**, hanya untuk edukasi dan analisis
 - Data 5 menit tersedia untuk 7 hari terakhir (limitasi Yahoo Finance)
-
-## 📝 License
-
-MIT
+- Boleh Menyalin dan memodifikasi
